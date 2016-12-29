@@ -1,7 +1,4 @@
 //Decompte de caractere
-//by Hicham
-//beWeb
-
 import java.util.*;
 //importation de la bibliotheque java
 

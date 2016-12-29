@@ -1,7 +1,4 @@
 #Decompte de caractere
-#by Hicham
-#beWeb
-
 def countChar(word,char)
 	word = ARGV[0]
 	char = ARGV[1]

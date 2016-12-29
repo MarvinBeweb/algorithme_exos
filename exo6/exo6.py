@@ -1,3 +1,4 @@
+
 quitter = False
 oui = "o"
 non = "n"

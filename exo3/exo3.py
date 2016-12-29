@@ -1,7 +1,4 @@
 #retrouver le caractere
-#By Hicham
-#beWeb
-
 #importer le module sys
 import sys
 

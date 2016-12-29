@@ -1,3 +1,4 @@
+
 mots = ""
 print "Propose un mot; je te dirai si c'est un palindrome ! : \n\r"
 mots = gets.chomp
