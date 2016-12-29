@@ -2,4 +2,4 @@
 
 	$hello = "hello world"
 
-	puts $hello
+	puts $hellos
