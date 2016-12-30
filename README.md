@@ -1,9 +1,8 @@
 # algorithme_exos
 
-**NOTE**: pour genere un langage en :
+**NOTE**: 
 
-Pour exécuter les fichiers :
-
+Pour exécuter les fichiers dans differents languages :
 **Ouvrez le terminal**
 
 -Placez vous dans le dossier exo(numéro de l'exercice à l'aide de CD-
